@@ -26,6 +26,6 @@ Two hands-on projects building transparent traffic gateways. Project 1 uses miho
 
 ## Контакты
 
-- Email: `your@email`
-- LinkedIn: `ссылка`
+- Email: `alexb.tech212@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/alexandr-bratunov-3ba9a4425/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bthd1ihSUQA2hi3Sr3WbuaA%3D%3D`
 - Локация: Кишинёв, Молдова
